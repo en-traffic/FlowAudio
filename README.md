@@ -8,7 +8,7 @@ Datasets: [ISCXVPN2016](https://www.unb.ca/cic/datasets/vpn.html) & [ISCXTOR2016
 
 Sessions: We use [SplitCap](https://www.netresec.com/?page=SplitCap) to obtain session for ISCX-VPN, ISCX-nonVPN, ISCX VPN-nonVPN, ISCX-Tor, ISCX-nonTor and ISCX Tor-nonTor datasets, respectively. 
 
-Categorization Details: For specific categorization of each dataset, please refer to folder ISCX_data.
+Categorization Details: For specific categorization of each dataset, please refer to folder **ISCX_data**.
 
 Note: The session pcaps with same class_id should be placed in one directory named class_id. 
 
@@ -45,7 +45,7 @@ task  -- Classfication tasks, such as vpn, nonvpn, vpnnonvpn, tor, nontor, torno
 model_path  --The path to output model
 ```
 
-## Evaluation Result
+## Evaluation
 
 ```
 python evaluation_eval.py -d <test_set_path> -m cnn1d -l <model_path> -p <confusion_matrix_figure_path> -t <task>
@@ -54,4 +54,7 @@ model_path  --The path to load model
 confusion_matrix_path  --The path to output confusion matrix figure
 task  -- Classfication tasks, such as vpn, nonvpn, vpnnonvpn, tor, nontor, tornontor
 ```
+
+## Result
+Our data is stored in folder **History**.
 
