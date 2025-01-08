@@ -1,0 +1,10 @@
+{
+    "0": "Tor-Video",
+    "1": "Tor-EMail",
+    "2": "Tor-Browsing",
+    "3": "Tor-Chat",
+    "4": "Tor-Audio",
+    "5": "Tor-File",
+    "6": "Tor-P2P",
+    "7": "Tor-VoIP"
+}

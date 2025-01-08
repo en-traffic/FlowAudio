@@ -1,0 +1,14 @@
+{
+    "0": "File",
+    "1": "Video",
+    "2": "Streaming",
+    "3": "VoIP",
+    "4": "Chat",
+    "5": "Email",
+    "6": "VPN-File",
+    "7": "VPN-Chat",
+    "8": "VPN-Streaming",
+    "9": "VPN-VoIP",
+    "10": "VPN-P2P",
+    "11": "VPN-Email"
+}

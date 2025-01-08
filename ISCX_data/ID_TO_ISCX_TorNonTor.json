@@ -1,0 +1,18 @@
+{
+    "0": "Video",
+    "1": "P2P",
+    "2": "Chat",
+    "3": "VoIP",
+    "4": "Audio",
+    "5": "Email",
+    "6": "Browsing",
+    "7": "File",
+    "8": "Tor-Video",
+    "9": "Tor-Email",
+    "10": "Tor-Browsing",
+    "11": "Tor-Chat",
+    "12": "Tor-Audio",
+    "13": "Tor-File",
+    "14": "Tor-P2P",
+    "15": "Tor-VoIP"
+}
